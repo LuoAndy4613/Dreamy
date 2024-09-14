@@ -1,0 +1,57 @@
+Privacy Policy
+
+This privacy notice describes how and why we might collect, store, use, and/or share ( "process") your information when you use our services ( "Services"), such as when you:
+Download and use our game, or any other application of ours that links to this privacy notice
+Engage with us in other related ways, including any sales, marketing, or events.
+
+1. Information and Data we collect from you
+Application Data. If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:
+Geolocation Information. We may request access or permission to track location-based information from your mobile device, either continuously or while you are using our mobile application(s), to provide certain location-based services. If you wish to change our access or permissions, you may do so in your device's settings.
+Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device's camera, storage, social media accounts, and other features. If you wish to change our access or permissions, you may do so in your device's settings.
+Push Notifications. We may request to send you push notifications regarding your account or certain features of the application(s). If you wish to opt out from receiving these types of communications, you may turn them off in your device's settings.
+This information is primarily needed to maintain the security and operation of our application(s), for troubleshooting, and for our internal analytics and reporting purposes.
+
+All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
+
+2. How we use your information
+In Short: We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent.
+
+We process your personal information for a variety of reasons, depending on how you interact with our Services, including:
+To facilitate account creation and authentication and otherwise manage user accounts. We may process your information so you can create and log in to your account, as well as keep your account in working order.
+To save or protect an individual's vital interest. We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
+
+3.Security
+We have implemented appropriate technical and organizational measures to protect the confidentiality, security, and integrity of the collected information, and to prevent unauthorized access and the use of information contrary to this Privacy Policy. Although we use commercially reasonable efforts to assure that your information remains secure when maintained by us, please be aware that no security measures are perfect or impenetrable.
+
+4. Data retention period
+We take reasonable measures to protect the information we collect from or about you from unauthorized access, use, or disclosure. However, no internet-based service can be 100% secure.
+We are committed to keeping your personal data safe. We take reasonable and appropriate administrative, technical, organizational, and physical security and risk management measures in accordance with applicable laws to ensure that your personal data is adequately protected against accidental or unlawful destruction, damage, loss or alteration, unauthorized or unlawful access, disclosure or misuse, and all other unlawful forms of processing of your personal data in our possession.
+We store and process your information on our servers, and we protect it by maintaining physical, electronic and procedural safeguards in compliance with the applicable law. 
+We use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our buildings and files, and we authorize access to information only for those employees who require it to fulfill their job responsibilities. The Company shall inform its subscribers in the case that their personal data is legally transferred to third parties.
+The subscribers are obliged to protect all the confidential data that are granted to them. Access codes and secret codes are strictly personal and the Company shall not be responsible in case of loss or theft. In case of loss or theft of the above codes, the subscribers are obliged to inform the Company as soon as possible.
+We will retain your information for as long as necessary to provide the service, unless required by law or unless we accept your request to delete the information.
+
+5. Non-personal Information
+To access the Services, we may collect information about you, but only if you voluntarily provide it to us. The types of personal information collected in conjunction with the activities listed above will vary depending on the activity. The requested Personal Information may include, but are not limited to: (i) your name, (ii) email address, (iii) photo or other image, (iv) location. Parents or legal guardians providing parental consent (via our Parental Consent Form) may be asked to provide their child’s name and email address in addition to information about themselves. You may choose not to provide certain information, but in doing so you may not be able to take advantage of many of our features.
+The information collected by the SDKs are for the purposes of:
+providing and improving our Services;
+analyzing how our Services are used by users;
+displaying and running in-app advertisements;
+studying and analyzing the functionality and performance of the Services and activities related to the Services;
+protecting the Services and usersfrom fraud, misuse and unlawful use of the Services’ and related data and assets.
+
+6. Your Legal Rights
+
+The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of Our Service, or We are legally obligated to retain this data for longer time periods.
+
+The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+
+
+7. How can you contact us?
+If you wish to exercise any of these rights or any other rights that you may have under applicable law, please contact us at luoandyloveu@hotmail.com.
+
+8. Disclaimer and Limitation of Liability
+Our game is provided on an “as is” and “as available” basis without warranties of any kind. We do not guarantee the accuracy, completeness, or timeliness of content available on the app.
+
+
